@@ -1,0 +1,9 @@
+#First install all the package in python
+pip3 install CMake
+pip3 install mediapipe
+pip install opencv-python
+pip install firebase-admin
+pip3 install tk
+pip3 install face-recognition
+
+And ater installing these package run main.py
